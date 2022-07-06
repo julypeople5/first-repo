@@ -3,3 +3,4 @@ List harian
 2. Sarapan
 3. Mandi
 4. Pergi Kuliah
+5. pulang/istirahat
