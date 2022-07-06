@@ -1,6 +1,5 @@
 List harian
 1. Bangun Pagi
-2. Mandi
 3. Masak
 4. Makan
 5. Tidur
